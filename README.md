@@ -25,8 +25,8 @@ Programa de Calculo_De_Objetos:
   
   	* Reinicio.  
   
- 	  * Salir del programa
-  
+ 	 * Salir del programa.
+   
     a.	Si se selecciona la opción uno seguidamente nos dará un resultado del perímetro del cuadrado.
     
     b.	Si se selecciona la opción dos seguidamente nos dará un resultado del área del cuadrado.
